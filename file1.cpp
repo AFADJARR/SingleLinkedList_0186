@@ -1,3 +1,4 @@
 #include <iostream>
 #include <string>
-using namspace std;
+using namespace std;
+
