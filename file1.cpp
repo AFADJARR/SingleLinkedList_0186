@@ -131,6 +131,26 @@ int main()
             cin >> ch;
             switch (ch)    
             cin >> ch;
+            switch (ch)
+            {
+            case '1':
+            {
+                mhs.addNode();
+            }
+            break;
+
+            case '2':
+            {
+                if (mhs.ListEmpty())
+                {
+                    cout << endl
+                         << "list kosong" << endl;
+                    break;
+                }
+                cout << endl;
+            }
+
+            }
                         
     }
     }
