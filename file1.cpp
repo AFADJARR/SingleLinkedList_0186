@@ -8,3 +8,15 @@ public:
     int noMhs;
     Node *next;
 };
+
+class list
+{
+    Node *START;
+
+public:
+    list()
+    {
+        START = NULL;
+    }
+
+}
